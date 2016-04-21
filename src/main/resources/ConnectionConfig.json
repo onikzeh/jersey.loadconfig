@@ -1,0 +1,6 @@
+{
+    host: "localhost", // Defines host name
+    port: 8080,
+    user: "test",
+    password: "123456"
+}
